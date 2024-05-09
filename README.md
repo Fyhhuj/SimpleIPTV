@@ -1,16 +1,44 @@
-# iptv
+# SimpleIPTV
 
-A new Flutter project.
+SimpleIPTV is a Flutter-based app that allows you to enjoy your favorite television channels through Internet Protocol Television (IPTV). With an intuitive and user-friendly interface, SimpleIPTV offers you a smooth and customizable viewing experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Intuitive Interface:** Easily navigate through your favorite channels with a clean and organized interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Customization:** Mark your favorite channels for quick access and customize your channel list to suit your preferences.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Compatibility with Multiple Formats:** Supports a variety of IPTV playlist formats, including M3U and JSON.
+
+---
+
+## Installation
+
+1. Clone the SimpleIPTV repository from GitHub:
+
+git clone https://github.com/YuhengZhou30/SimpleIPTV.git
+
+2. Navigate to the project directory:
+   
+cd SimpleIPTV
+
+3. Install dependencies:
+   flutter pub get
+4. Run the app:
+   flutter run
+   or
+   Download release
+
+---
+
+## Contributing
+
+We welcome contributions from the community. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on GitHub.
+
+---
+
+## License
+
+SimpleIPTV is licensed under the MIT License. See the LICENSE file for more information.
