@@ -30,6 +30,9 @@ cd SimpleIPTV
    flutter run
    or
    Download release
+   or
+   Download from :
+   https://www.pling.com/p/2153591/
 
 ---
 
